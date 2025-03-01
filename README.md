@@ -6,7 +6,7 @@ Olá! Sou Pedro Santilli de Souza, um desenvolvedor apaixonado por tecnologia e 
 
 ## 🚀 Habilidades Técnicas
 
-- **Linguagens**: Python, Java, Dart  Swift, C#.
+- **Linguagens**: Python, Java, Dart, Swift, C#.
 - **Frameworks**: Flutter, Flask, Pandas, Plotly, Streamlit, Matplotlib, Selenium, Playwrite.
 - **Banco de Dados**: SQLite, SQL e MySQL.
 
