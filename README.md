@@ -46,6 +46,8 @@ LinkedIn: https://www.linkedin.com/in/pedro-santilli-de-souza/
 ---
 ⭐ Always building something new
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats## 📊 GitHub Stats
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Santilli&show_icons=true&theme=tokyonight)
 
-![Pedro-Santilli GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Santilli&layout=compact&theme=tokyonight)
+
