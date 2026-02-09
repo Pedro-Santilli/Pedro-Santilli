@@ -8,8 +8,8 @@ Building mobile apps, backend services and AI-powered tools.
 
 ## 🚀 About me
 
-- Computer Science student (5th semester)
-- Focus on mobile development (Swift, Flutter, Dart)
+- Computer Science student (7th semester)
+- Focus on mobile development (Swift, Flutter, Kotlin)
 - Experience with backend, automation and data tools
 - Interested in software architecture, security and product development
 
@@ -46,8 +46,7 @@ LinkedIn: https://www.linkedin.com/in/pedro-santilli-de-souza/
 ---
 ⭐ Always building something new
 
-## 📊 GitHub Stats## 📊 GitHub Stats
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Santilli&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats## 🏆 GitHub
+![trophy](https://github-profile-trophy.vercel.app/?username=Pedro-Santilli&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Santilli&layout=compact&theme=tokyonight)
 
