@@ -1,19 +1,50 @@
 # 💻 Pedro Santilli de Souza
 
-## 👋 Sobre mim
+Fullstack Developer • Mobile Engineer • Computer Science Student
 
-Olá! Sou Pedro Santilli de Souza, um desenvolvedor apaixonado por tecnologia e inovação. Atualmente, sou estudante de Ciência da Computação e estou no quinto termo. Meu foco principal é no desenvolvimento de software, especialmente na área de desenvolvimento mobile.
+Building mobile apps, backend services and AI-powered tools.
 
-## 🚀 Habilidades Técnicas
+---
 
-- **Linguagens**: Python, Java, Dart, Swift, C#.
-- **Frameworks**: Flutter, Flask, Pandas, Plotly, Streamlit, Matplotlib, Selenium, Playwrite.
-- **Banco de Dados**: SQLite, SQL e MySQL.
+## 🚀 About me
 
-## 📫 Contato
+- Computer Science student (5th semester)
+- Focus on mobile development (Swift, Flutter, Dart)
+- Experience with backend, automation and data tools
+- Interested in software architecture, security and product development
 
-📧 Email: psantillidesozua@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/pedro-santilli-de-souza/
+---
 
-Sinta-se à vontade para explorar meus repositórios! 🚀
+## 🧠 Tech Stack
 
+**Mobile**
+Swift • Flutter • Dart • Kotlin
+
+**Backend**
+Node.js • Bun • Python • Flask
+
+**Frontend**
+Vue • TypeScript
+
+**Data & Tools**
+Pandas • Plotly • Streamlit • SQLite • MySQL • Selenium
+
+---
+
+## 📌 Projects
+- AI chatbots
+- Emergency medical assistant app
+- Management systems
+- Mobile apps for iOS and Android
+
+---
+
+## 📫 Contact
+Email: psantillidesouza@gmail.com  
+LinkedIn: https://www.linkedin.com/in/pedro-santilli-de-souza/
+
+---
+⭐ Always building something new
+
+## 📊 GitHub Stats
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight)
