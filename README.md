@@ -46,7 +46,3 @@ LinkedIn: https://www.linkedin.com/in/pedro-santilli-de-souza/
 ---
 ⭐ Always building something new
 
-## 📊 GitHub Stats## 🏆 GitHub
-![trophy](https://github-profile-trophy.vercel.app/?username=Pedro-Santilli&theme=tokyonight)
-
-
