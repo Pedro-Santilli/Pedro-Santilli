@@ -1,0 +1,43 @@
+name: Update profile cards and snake
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - update_profile.py
+      - .github/workflows/profile.yml
+  schedule:
+    - cron: '23 9 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install image dependency
+        run: python -m pip install 'Pillow==13.0.0'
+      - name: Generate assets from public data
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python update_profile.py
+      - name: Commit updated images
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/stats.svg assets/languages.svg assets/contributions.gif assets/data.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update profile statistics and contribution animation'
+            git push
+          fi
